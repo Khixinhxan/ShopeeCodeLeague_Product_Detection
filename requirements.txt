@@ -1,0 +1,4 @@
+tensorflow 
+seaborn 
+cv2
+efficientnet
